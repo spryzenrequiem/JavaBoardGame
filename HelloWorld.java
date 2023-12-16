@@ -5,5 +5,7 @@ public class HelloWorld
         for(int i = 0; i < 5; i++) {
             System.out.println(i + ". Hello Guys");
         }
+
+        System.out.println("Huy");
     }
 }
