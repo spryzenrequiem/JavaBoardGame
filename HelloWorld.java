@@ -8,5 +8,7 @@ public class HelloWorld
     public static void main(String[] args)
     {
         sayHello();
+        System.out.println("Check nha");
     }
+
 }
