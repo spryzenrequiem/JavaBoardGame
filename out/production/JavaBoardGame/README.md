@@ -1,2 +1,0 @@
-# JavaBoardGame
-CrazySheepGame
